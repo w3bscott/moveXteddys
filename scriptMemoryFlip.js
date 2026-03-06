@@ -23,7 +23,7 @@ clap = document.querySelector('#clap');
   
 reset();
 
-const OPENAI_API_KEY = 'co_67vd7v4376g4378909nejkueibew8742878vweh'
+const OPENAI_API_KEY = 'co_67vd7v4376g4378909nejkueibew8742878vweh';
 
 
 // for(var i = 0; i < cardNum.length; i++){
